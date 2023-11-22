@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" with="50" height="50" />
+<p align="center"><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" with="50" height="50" /></p>
 
 <br>
 
