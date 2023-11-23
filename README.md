@@ -2,9 +2,9 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm M. Suhairie</h3>
 <h5 align="center">Student at University Putra Indonesia YPTK Padang, S1- Sistem Informasi🌟.</h5>
 
-<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 <br>
-
+<p><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
+<br><br>
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **msuhairie255@gmail.com**
