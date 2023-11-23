@@ -40,10 +40,5 @@
       alt="codeigniter" width="40" height="40" /> </a> 
       <a href="https://laravel.com/"_blank" rel="noreferrer"> <img
       src="https://laravel.com/img/logomark.min.svg"
-      alt="laravel" width="40" height="40" /> </a> 
-
+      alt="laravel" width="40" height="40" /> </a>
  </p>
-
-<br>
-
-[M. Suhairie](https://github.com/MSuhairie)
