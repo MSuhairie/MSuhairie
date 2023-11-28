@@ -1,6 +1,17 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" /> </p>
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" />
+</a>
+
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm M. Suhairie</h3>
-<h5 align="center">Student at University Putra Indonesia YPTK Padang, S1- Sistem Informasi🌟.</h5>
+<p align="center"> 
+  <samp>
+    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <p><img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></p>
 <br><br>
