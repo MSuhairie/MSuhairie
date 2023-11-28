@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=rock12231&label=Profile%20views&color=0e75b6&style=flat" alt="rock12231" />
 </a>
 
@@ -7,7 +7,7 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm M. Suhairie</h3>
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a web programming developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
