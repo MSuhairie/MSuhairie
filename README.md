@@ -23,7 +23,7 @@
  <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/msuhairie69" target="_blank">
+ <a href="https://instagram.com/m_suhairie69" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="suhairi" />
  </a> 
  <a href="https://facebook.com/" target="_blank">
@@ -35,15 +35,6 @@
 <br><br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
-
-<br><br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/m_suhairie69/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Syaifullah Al Aziz" height="30" width="40" /></a>
-</p>
 
 <br>
 
