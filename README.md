@@ -31,7 +31,7 @@
   </a> 
 </p>
 
-<p><img align="right" src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" alt="Coder GIF" width="300" height="300"></p>
+<p><img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coder GIF" width="350" height="250"></p>
 <br><br>
 
 - 🌱 I’m currently learning Web Development and other programming languages
