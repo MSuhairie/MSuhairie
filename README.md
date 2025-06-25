@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
- <a href="#" target="blank">
+ <a href="https://portfolio-msuhairie.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="suhairi" />
  </a>
- <a href="https://linkedin.com/in/M. Suhairie" target="_blank">
+ <a href="https://www.linkedin.com/in/msuhairie/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="suhairi"/>
  </a>
  <a href="#" target="_blank">
@@ -26,7 +26,7 @@
  <a href="https://instagram.com/m_suhairie69" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="suhairi" />
  </a> 
- <a href="https://facebook.com/" target="_blank">
+ <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="suhairi"  />
   </a> 
 </p>
