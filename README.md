@@ -7,7 +7,7 @@
 <h3 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm M. Suhairie</h3>
 <p align="center"> 
   <samp>
-    「 I am a web programming developer from <b>Indonesia</b> 」
+    「 I am a Fullstack developer from <b>Indonesia</b> 」
     <br>
     <br>
   </samp>
